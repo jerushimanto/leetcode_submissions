@@ -11,10 +11,12 @@ Contains my daily leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jerushimanto/leetcode_submissions/tree/master/0013-roman-to-integer) |
+| [1304-longest-happy-string](https://github.com/jerushimanto/leetcode_submissions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/jerushimanto/leetcode_submissions/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/jerushimanto/leetcode_submissions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/jerushimanto/leetcode_submissions/tree/master/3195-separate-black-and-white-balls) |
 ## Hash Table
 |  |
@@ -24,4 +26,8 @@ Contains my daily leetcode solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jerushimanto/leetcode_submissions/tree/master/0013-roman-to-integer) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/jerushimanto/leetcode_submissions/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
